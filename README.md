@@ -22,5 +22,10 @@
   ##
   
   <div> 
-       ![Snake animation](https://github.com/Hachigud/Hachigud/blob/output/github-contribution-grid-snake.svg)
+         <a href="https://www.linkedin.com/in/rafael-aburto-garrido-3b00ab223/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:rafael.aburto.garrido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+ 
+  ![Snake animation](https://github.com/Hachigud/Hachigud/blob/output/github-contribution-grid-snake.svg)
     </div>
