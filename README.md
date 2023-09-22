@@ -5,12 +5,14 @@
 - 💬 Mi correo: rafael.aburto.garrido@gmail.com ✉ ✉
 - 💛 JavaScript 💛  💜 PHP 💜  💚 Bases de datos 💚
 
+![Hachigud's Stats](https://github-readme-stats.vercel.app/api?username=Hachigud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Hachigud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hachigud&theme=tokyonight&hide_border=true)
 <div align="center">
-  <a href="https://github.com/Hachigud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hachigud&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachigud&layout=compact&langs_count=7&theme=dark&locale=es"/>
-</div>
-  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachigud&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" >
+  </div>
+
+
+
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
