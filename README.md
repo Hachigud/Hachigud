@@ -1,10 +1,9 @@
 ### Hola 👋 soy Rafael Aburto 👀👀
 
 - 🔭 Buscando trabajo. 💪 💪
-- 🌱 Actualmente estoy aprendiendo Laravel, Kotlin, entre otros. 🤓  🤓
 - 💬 Mi correo: rafael.aburto.garrido@gmail.com ✉ ✉
-- 💛 JavaScript 💛  💜 PHP 💜  💚 Bases de datos 💚
-- 
+- 💛 JavaScript 💛  💜 PHP - C# - JAVA 💜  💚 Bases de datos 💚
+  
 <div align="center">
  
  <img style="width: 400px; height:159px;" src="https://github-readme-stats.vercel.app/api?username=Hachigud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
